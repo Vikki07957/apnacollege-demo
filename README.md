@@ -1,4 +1,7 @@
 # apnacollege-demo
+
 this is my first repository
 <br>
-Author-Vikhyath
+Author-Vikhyath (yapare)
+
+
